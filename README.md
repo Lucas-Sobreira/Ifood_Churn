@@ -4,7 +4,7 @@ Estudo de Churn de clientes na plataforma do Ifood.
 ## Definição do Problema
 
 <div align="justify">
-  <p>O departamento de CRM/Marketing do iFood fez uma solicitação para o time de Ciência de Dados (que estão atrelados ao time de dados</br>dentro da área de TI) para criar um modelo de Machine Learning para prever os clientes que darão Churn.
+  <p>O departamento de CRM/Marketing do iFood fez uma solicitação para o time de Ciência de Dados (que estão atrelados ao time de dados dentro da área de TI) para criar um modelo de Machine Learning para prever os clientes que darão Churn.
   </p>
   <p>O objetivo deles com o modelo é atuar sobre os clientes com maiores chances de darem churn no próximo mês.</p>
   <ul>
