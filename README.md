@@ -9,7 +9,7 @@ Estudo de Churn de clientes na plataforma do Ifood.
   <p>O objetivo deles com o modelo é atuar sobre os clientes com maiores chances de darem churn no próximo mês.</p>
   <ul>
     <li>A ação será realizada 1 vez por mês, todo dia 01.</li>
-    <li>Como a frequência de compras dos clientes do IFood é relativamente alta, então ficou-se decidido na reunião com a área cliente que o modelo seria construído usando features construídas em um período fechadode 1 mês para prever se um dado cliente irá deixar de</br>comprar (churn) no próximo mês.</li>
+    <li>Como a frequência de compras dos clientes do IFood é relativamente alta, então ficou-se decidido na reunião com a área cliente que o modelo seria construído usando features construídas em um período fechadode 1 mês para prever se um dado cliente irá deixar de comprar (churn) no próximo mês.</li>
   </ul>
   <p>A métrica principal de avaliação do modelo é a AUC, dado que o score gerado pelo modelo será usado para ordenar a base.</p>
 </div>
